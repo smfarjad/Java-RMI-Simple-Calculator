@@ -14,7 +14,7 @@ This repository contains the implementation of simple calculator using Java RMI.
 
 ### Snapshots
 
-![alt text](https://github.com/smfarjad/Java-RMI-Simple-Calculator/blob/master/snap1.jpg? = 100x20)
+![alt text](https://github.com/smfarjad/Java-RMI-Simple-Calculator/blob/master/snap1.jpg = 100x20)
 
 ![alt text](https://github.com/smfarjad/Java-RMI-Simple-Calculator/blob/master/snap2.jpg?raw=true)
 
